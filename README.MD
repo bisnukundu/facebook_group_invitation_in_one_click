@@ -1,4 +1,4 @@
-# If you want to invite your all friends in facebook group?
+# If you want to invite your all friends in your facebook group?
 
 ### First step
 
