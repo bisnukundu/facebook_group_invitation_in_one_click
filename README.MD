@@ -13,5 +13,5 @@ Click invite Button and scroll down and load all friends.
 
 ### Three step
 
-now simpley copy this code and paste in the console and press enter and click send invites button
+now simpley copy code from code.js and paste in the console and press enter and click send invites button
 ![screenshot](img/3.png)
